@@ -9,8 +9,8 @@
       "urls": [
         "/gateway/favicon.ico",
         "/gateway/index.html",
-        "/gateway/inline.dd0433904b7e5c66fba1.bundle.js",
-        "/gateway/main.1059ca9da3fe7f7fc5dd.bundle.js",
+        "/gateway/inline.913f1c6c0cb7faf20a9b.bundle.js",
+        "/gateway/main.7425d43f7aa344fcf258.bundle.js",
         "/gateway/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
         "/gateway/styles.c472662ef197464feae2.bundle.css"
       ],
@@ -21,25 +21,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/gateway/assets/cell-values/circle.png",
+        "/gateway/assets/cell-values/cross.png",
+        "/gateway/assets/games/cat-generator.png",
+        "/gateway/assets/games/morpion.png",
         "/gateway/assets/icons/icon-128.png",
         "/gateway/assets/icons/icon-152.png",
         "/gateway/assets/icons/icon-256.png",
         "/gateway/assets/icons/icon-512.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/gateway/inline.dd0433904b7e5c66fba1.bundle.js": "90d377015c9605fe1ce799aed62cdde3b884411b",
-    "/gateway/assets/icons/icon-128.png": "bef4ca96ef881519e977b5646de3e801234500c5",
-    "/gateway/main.1059ca9da3fe7f7fc5dd.bundle.js": "f8c99eaa99f63fbc32994cbb0d37e43a24fcb188",
-    "/gateway/assets/icons/icon-152.png": "fb2b0ac5b267bfb51925faafc4f72eadeb514db0",
+    "/gateway/inline.913f1c6c0cb7faf20a9b.bundle.js": "f0fd59643dfc9b63da8e1728c3ddacb954933f63",
+    "/gateway/assets/cell-values/circle.png": "36d4daaf06492cd478f9177a6200853bb56dd47a",
+    "/gateway/main.7425d43f7aa344fcf258.bundle.js": "195862729fa29974669d6069345d925bd98e1006",
+    "/gateway/assets/cell-values/cross.png": "b160fe1e56cd5255dfbe0826f4d3f607bf8021e1",
     "/gateway/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
-    "/gateway/assets/icons/icon-256.png": "acb8b565048f512244d9701459cda2a199018933",
+    "/gateway/assets/games/cat-generator.png": "bf79c62243fee760e8406597cd1829f20dd6eb2c",
     "/gateway/styles.c472662ef197464feae2.bundle.css": "c02aafc091593f64df5896e900dc026f2a998ec8",
-    "/gateway/assets/icons/icon-512.png": "c10352d4f279007ac55ae4620cb407fff7dc51f2",
+    "/gateway/assets/games/morpion.png": "dc7e4bdefce3ab105c3a794ce3e14203cc474d9a",
     "/gateway/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/gateway/index.html": "4026a0d815e7d723c065429c2c73842b1ba5ad81"
+    "/gateway/assets/icons/icon-128.png": "bef4ca96ef881519e977b5646de3e801234500c5",
+    "/gateway/index.html": "00d75267350c0ee0295af6801cf64ea60d16bba9",
+    "/gateway/assets/icons/icon-152.png": "fb2b0ac5b267bfb51925faafc4f72eadeb514db0",
+    "/gateway/assets/icons/icon-256.png": "acb8b565048f512244d9701459cda2a199018933",
+    "/gateway/assets/icons/icon-512.png": "c10352d4f279007ac55ae4620cb407fff7dc51f2"
   }
 }
