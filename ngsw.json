@@ -9,8 +9,8 @@
       "urls": [
         "/gateway/favicon.ico",
         "/gateway/index.html",
-        "/gateway/inline.913f1c6c0cb7faf20a9b.bundle.js",
-        "/gateway/main.7425d43f7aa344fcf258.bundle.js",
+        "/gateway/inline.01236120c9959752e1b9.bundle.js",
+        "/gateway/main.b27c220e3cc0a3a484e0.bundle.js",
         "/gateway/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
         "/gateway/styles.c472662ef197464feae2.bundle.css"
       ],
@@ -37,9 +37,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/gateway/inline.913f1c6c0cb7faf20a9b.bundle.js": "f0fd59643dfc9b63da8e1728c3ddacb954933f63",
+    "/gateway/inline.01236120c9959752e1b9.bundle.js": "662bde32fe5231958b60e8998d7bbddf5f29dbb2",
     "/gateway/assets/cell-values/circle.png": "36d4daaf06492cd478f9177a6200853bb56dd47a",
-    "/gateway/main.7425d43f7aa344fcf258.bundle.js": "195862729fa29974669d6069345d925bd98e1006",
+    "/gateway/main.b27c220e3cc0a3a484e0.bundle.js": "fe41717e7ea61aec70c3161128ad0241ecaec42f",
     "/gateway/assets/cell-values/cross.png": "b160fe1e56cd5255dfbe0826f4d3f607bf8021e1",
     "/gateway/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
     "/gateway/assets/games/cat-generator.png": "bf79c62243fee760e8406597cd1829f20dd6eb2c",
@@ -47,7 +47,7 @@
     "/gateway/assets/games/morpion.png": "dc7e4bdefce3ab105c3a794ce3e14203cc474d9a",
     "/gateway/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/gateway/assets/icons/icon-128.png": "bef4ca96ef881519e977b5646de3e801234500c5",
-    "/gateway/index.html": "00d75267350c0ee0295af6801cf64ea60d16bba9",
+    "/gateway/index.html": "c44ffb359b33e26a55042e9047a04df5e4f40994",
     "/gateway/assets/icons/icon-152.png": "fb2b0ac5b267bfb51925faafc4f72eadeb514db0",
     "/gateway/assets/icons/icon-256.png": "acb8b565048f512244d9701459cda2a199018933",
     "/gateway/assets/icons/icon-512.png": "c10352d4f279007ac55ae4620cb407fff7dc51f2"
